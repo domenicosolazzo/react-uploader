@@ -1,5 +1,5 @@
 # React-uploader
-Varius React uploader
+Several React components for uploading files
 
 # List
 =====================
